@@ -23,13 +23,13 @@ env_prep.cmd
 
 What all that now setup you are ready to start working on your ML or DL projects and if you need some some help getting started we have included some great resource notebooks under `quick start` which contains
 
-1. Basics
+* Basics
   * Python
   * NumPy
   * Pandas
   * Visualization
 
-2. Machine Learning
+* Machine Learning
   * Introduction to Machine Learning
   * Supervised Learning
   * SVM and KMeans
@@ -37,14 +37,14 @@ What all that now setup you are ready to start working on your ML or DL projects
   * Feature Engineering
   * Introduction to Scikit-learn
 
-3. Neural Networks
+* Neural Networks
   * Introduction to Deep Learning
   * Neural Networks 1
   * Neural Networks 2
   * Neural Networks Implementation
   * Hyperparameter Optimization
 
-4. Deep Learning
+* Deep Learning
   * Introduction to Convolutional Neural Network
   * Introduction to RNN and LSTM
   * Transfer Learning CNN 
