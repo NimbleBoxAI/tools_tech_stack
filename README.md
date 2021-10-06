@@ -13,11 +13,24 @@ anaconda_install.cmd
 3. Now close **cmd** and open it once again with **admin** permissions (conda is not registered as a command right after you installed it and so we need a fresh environment for cmd that has conda registered as a command).
 
 ```cmd
-env_prepare.cmd
+env_prep.cmd
 ```
 
 4. Just write `conda activate deep_learning` in cmd to use the environment.
 
+## Tools installed by the `env_prep.cmd` script
+
+1. nbox
+2. torch
+3. tensorflow
+4. scikit-learn
+5. pandas
+6. numpy
+7. nltk
+8. opencv-python
+9. openvino-dev
+10. transformers
+11. torchvision 
 
 ## Tools for AI development
 
