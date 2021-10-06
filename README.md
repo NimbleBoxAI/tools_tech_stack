@@ -18,6 +18,37 @@ env_prep.cmd
 
 4. Just write `conda activate deep_learning` in cmd to use the environment.
 
+
+## What next 
+
+What all that now setup you are ready to start working on your ML or DL projects and if you need some some help getting started we have included some great resource notebooks under `quick start` which contains
+
+1. Basics
+  1. Python
+  2. NumPy
+  3. Pandas
+  4. Visualization
+
+2. Machine Learning
+  1. Introduction to Machine Learning
+  2. Supervised Learning
+  3. SVM and KMeans
+  4. DecisionTrees and NaiveBayes
+  5. Feature Engineering
+  6. Introduction to Scikit-learn
+
+3. Neural Networks
+  1. Introduction to Deep Learning
+  2. Neural Networks 1
+  3. Neural Networks 2
+  4. Neural Networks Implementation
+  5. Hyperparameter Optimization
+
+4. Deep Learning
+  1. Introduction to Convolutional Neural Network
+  2. Introduction to RNN and LSTM
+  3. Transfer Learning CNN 
+
 ### Tools installed by the `env_prep.cmd` script
 
 1. nbox
@@ -30,7 +61,7 @@ env_prep.cmd
 8. opencv-python
 9. openvino-dev
 10. transformers
-11. torchvision 
+11. torchvision
 
 ## Tools for AI development
 
