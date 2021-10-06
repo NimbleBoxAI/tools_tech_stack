@@ -18,7 +18,7 @@ env_prep.cmd
 
 4. Just write `conda activate deep_learning` in cmd to use the environment.
 
-## Tools installed by the `env_prep.cmd` script
+### Tools installed by the `env_prep.cmd` script
 
 1. nbox
 2. torch
