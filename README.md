@@ -4,33 +4,40 @@ Tools and tech stack for deep learning on windows
 ## Steps
 1. Go [here](https://www.anaconda.com/products/individual) and download the anaconda installer for windows and place it in the same folder as the script and rename it to **Anaconda3.exe**
 
-2. Open **cmd** (Command prompt) as **admin** and go through the below commands to setup the tools.
+2. Go [here](https://code.visualstudio.com/#alt-downloads) and download the VScode system installer for your specific platform and rename it to **VSCodeSetup.exe** and put that in the same folder.
+
+3. Open **cmd** (Command prompt) as **admin** and go through the below commands to setup the tools.
 
  ```cmd
-anaconda_install.cmd
+tool_installer.cmd
 ```
 
-3. Now close **cmd** and open it once again with **admin** permissions (conda is not registered as a command right after you installed it and so we need a fresh environment for cmd that has conda registered as a command).
+4. Now close **cmd** and open it once again with **admin** permissions (conda is not registered as a command right after you installed it and so we need a fresh environment for cmd that has conda registered as a command).
 
 ```cmd
 env_prep.cmd
 ```
 
-4. Just write `conda activate deep_learning` in cmd to use the environment.
+5. Just write `conda activate deep_learning` in cmd to use the environment.
+
+### Tools installed by the `tool_installer.cmd` script
+
+1. VSCode
+2. Anaconda3
 
 ### Tools installed by the `env_prep.cmd` script
 
-1. nbox
-2. torch
-3. tensorflow
-4. scikit-learn
-5. pandas
-6. numpy
-7. nltk
-8. opencv-python
-9. openvino-dev
-10. transformers
-11. torchvision
+1. Nbox
+2. Torch
+3. Tensorflow
+4. Scikit-learn
+5. Pandas
+6. Numpy
+7. Nltk
+8. Opencv-python
+9. Openvino-dev
+10. Transformers
+11. Torchvision
 
 ## What next 
 
