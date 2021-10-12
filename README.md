@@ -2,9 +2,22 @@
 Tools and tech stack for deep learning on windows
 
 ## Steps
-1. Go [here](https://www.anaconda.com/products/individual) and download the anaconda installer for windows and place it in the same folder as the script and rename it to **Anaconda3.exe**
+### Prerequisites
+1. Clone or download this repository.
 
-2. Go [here](https://code.visualstudio.com/#alt-downloads) and download the VScode system installer for your specific platform and rename it to **VSCodeSetup.exe** and put that in the same folder.
+if using `git`:
+```bash
+git clone https://github.com/NimbleBoxAI/tools_tech_stack.git
+```
+otherwise you can just press on the `code` button and download the zip.
+
+2. Download the below listed tools from the given links and put them into the download repository and rename them as pointed below.
+
+| Tools          | Renamed setup files    |
+| -------------- | -------------------    |
+| VSCode         | Anaconda3.exe          |
+| Anaconda3      | VSCodeSetup.exe        |
+| Github Desktop | GitHubDesktopSetup.exe |
 
 3. Open **cmd** (Command prompt) as **admin** and go through the below commands to setup the tools.
 
