@@ -13,11 +13,11 @@ otherwise you can just press on the `code` button and download the zip.
 
 2. Download the below listed tools from the given links and put them into the download repository and rename them as pointed below.
 
-| Tools          | Renamed setup files    |
-| -------------- | -------------------    |
-| VSCode         | Anaconda3.exe          |
-| Anaconda3      | VSCodeSetup.exe        |
-| Github Desktop | GitHubDesktopSetup.exe |
+| Tools                                                     | Renamed setup files    |
+| --------------------------------------------------------  | ---------------------- |
+| [VSCode](https://code.visualstudio.com/#alt-downloads)    | Anaconda3.exe          |
+| [Anaconda3](https://www.anaconda.com/products/individual) | VSCodeSetup.exe        |
+| [Github Desktop](https://desktop.github.com/)             | GitHubDesktopSetup.exe |
 
 3. Open **cmd** (Command prompt) as **admin** and go through the below commands to setup the tools.
 
@@ -32,11 +32,6 @@ env_prep.cmd
 ```
 
 5. Just write `conda activate deep_learning` in cmd to use the environment.
-
-### Tools installed by the `tool_installer.cmd` script
-
-1. VSCode
-2. Anaconda3
 
 ### Tools installed by the `env_prep.cmd` script
 
