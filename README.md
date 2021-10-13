@@ -1,5 +1,5 @@
 # tools_tech_stack
-Tools and tech stack for deep learning on windows
+Helps you guide and quickly install tools on your machine so you can get started on your AI and ML projects faster. 
 
 ## Steps
 ### Prerequisites
